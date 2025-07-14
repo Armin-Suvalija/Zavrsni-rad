@@ -1,0 +1,1 @@
+SELECT AVG(price) AS average_price FROM housing_price_data

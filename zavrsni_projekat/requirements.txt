@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+pyodbc
+matplotlib
+seaborn
+notebook
+scikit-learn
+joblib
+shap

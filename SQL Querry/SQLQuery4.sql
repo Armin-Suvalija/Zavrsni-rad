@@ -1,0 +1,1 @@
+SELECT * FROM housing_price_data

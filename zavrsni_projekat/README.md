@@ -46,7 +46,7 @@ git clone https://github.com/Armin-Suvalija/Zavrsni-rad.git
 cd Zavrsni-rad
 ```
 
-### 2. Kreiraj virtuelno okruženje
+### 2. Kreiraj virtualno okruženje
 
 ```bash
 python -m venv .venv
